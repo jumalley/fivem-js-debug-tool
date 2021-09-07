@@ -6,7 +6,6 @@ description 'X'
 version '1.0.0'
 
 client_scripts {
-    -- 'client/cl_main.js',
-    -- 'client/cl_commands.js',
-    'client/kjd.js',
+    'client/cl_main.js',
+    'client/cl_commands.js',
 }
