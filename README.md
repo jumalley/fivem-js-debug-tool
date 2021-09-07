@@ -17,6 +17,10 @@ My old DebugTool designed for developers with all important informations rewrite
 5. **/clean** - clean your vehicle6. 
 6. **/cts** - clean top spead from /debug
 
+# To do
+1. TPM
+2. Noclip
+
 # Changelog
 
 # 1.0
