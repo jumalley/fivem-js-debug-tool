@@ -30,4 +30,4 @@ My old DebugTool rewriten and optimized in JS, designed for developers with all 
 Please don't sell, reupload or change the name of this resource.
 
 # Discord
-If you like it, please join my discord server! https://discord.gg/mV7zEkeF87
+If you like it, please join my discord server! https://discord.gg/m3dDCMd7kJ
