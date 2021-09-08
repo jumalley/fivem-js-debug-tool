@@ -1,5 +1,5 @@
 # OVERVIEW
-My old DebugTool designed for developers with all important informations rewriten in JS
+My old DebugTool rewriten and optimized in JS, designed for developers with all important informations
 
 # HOW TO INSTALL
 1. Unpack
